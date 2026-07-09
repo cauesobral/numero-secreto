@@ -56,5 +56,5 @@ Este repositório faz parte da minha jornada de aprendizado em desenvolvimento w
 
 **Cauê Sobral**
 
-- GitHub: https://github.com/SEU-USUARIO
-- LinkedIn: https://linkedin.com/in/SEU-LINKEDIN
+- GitHub: https://github.com/cauesobral
+- LinkedIn: https://linkedin.com/in/cauersobral
