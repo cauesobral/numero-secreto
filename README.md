@@ -52,9 +52,9 @@ O usuário deve adivinhar um número gerado aleatoriamente pelo sistema.
 
 Este repositório faz parte da minha jornada de aprendizado em desenvolvimento web, consolidando os fundamentos da linguagem JavaScript por meio de exercícios e projetos práticos.
 
-## 👨‍💻 Autor
+## 📄 Licença
 
-**Cauê Sobral**
+Este projeto foi desenvolvido para fins de estudo e prática de JavaScript com base no conteúdo da plataforma Alura.
 
 - GitHub: https://github.com/cauesobral
 - LinkedIn: https://linkedin.com/in/cauersobral
